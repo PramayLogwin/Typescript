@@ -1,0 +1,46 @@
+-class
+
+-data type
+number ,string ,boolean
+
+-array in typescript
+
+-object
+
+-union type (|)
+
+-interface
+
+-function
+
+-class
+
+-inheritance
+
+-modules
+
+-generics
+
+-enum
+
+-symbol
+
+!-configuration file
+
+-inference
+
+-Tuple
+
+!-Literal type
+
+-Alias type
+
+-function type
+
+-void type 
+
+-unknown type
+
+-never type
+
+-watch mode
