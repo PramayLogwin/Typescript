@@ -43,7 +43,7 @@ const App = () => {
   //   name: "Typescript",
   //   age: 20,
   //   address: "india",
-  // };
+    // };
   // obj.address = 200;
   // console.log(obj);
 
@@ -207,11 +207,12 @@ const App = () => {
   // let var1:string = "string";
 
   // function test(a: number, b: number): never {
-    // throw a ,b;
-    // return a + b;
-    // console.log("object");
+  // throw a ,b;
+  // return a + b;
+  // console.log("object");
   // }
   // console.log(test(10, 20));
+
 
 
 

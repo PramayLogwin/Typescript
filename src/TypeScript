@@ -1,4 +1,4 @@
--class
+!-class
 
 -data type
 number ,string ,boolean
@@ -44,3 +44,5 @@ number ,string ,boolean
 -never type
 
 -watch mode
+
+-total type in ts(union ,Literal type,Alias Type,Void Type,unknown Type,never Type)
